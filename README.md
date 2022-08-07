@@ -37,7 +37,7 @@
     <br>
 
 ## Screenshots
-![macintosh](/Users/rizzo/Desktop/macintosh.png)
+![macintosh](https://github.com/via2439/ASUS-P8B75-M-Lx-HACKINTOSH/blob/main/macintosh.png)
 <br>
 
 ## Reference
