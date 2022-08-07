@@ -7,7 +7,6 @@
 |    CPU    |  Intel Xeon E3-1230v2  |
 |    RAM    |    8GB DDR3 1600Mhz    |
 |    MB     |    ASUS P8B75-M Lx     |
-|   Audio   |        VT1708S         |
 |    SSD    |   Teclast 256GB SSD    |
 |    HDD    |         N / A          |
 |   iGPU    |         N / A          |
