@@ -11,8 +11,7 @@
 |    HDD    |         N / A          |
 |   iGPU    |         N / A          |
 |   dGPU    | NVIDIA GeForce GTX 970 |
-|   <br>    |                        |
-
+  <br>
 ## Supported Versions
 
 - macOS  High Sierra 10.13.6
